@@ -1,5 +1,7 @@
 import Welcome from "./app/screens/Welcome"
 import ChooseLR from "./app/screens/ChooseLR";
+import LogIn from "./app/screens/LogIn"
+import SignUp from "./app/screens/SignUp"
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
@@ -16,6 +18,14 @@ const MyStack = () => {
         <Stack.Screen 
           name = "ChooseLR" 
           component = {ChooseLR}
+        />
+        <Stack.Screen 
+          name = "LogIn" 
+          component = {LogIn}
+        />
+        <Stack.Screen 
+          name = "SignUp" 
+          component = {SignUp}
         />
       </Stack.Navigator>
     </NavigationContainer>
