@@ -28,7 +28,7 @@ FellowFund solves this issue. In FellowFund, users are be able to create groups 
  - voting system to verify transaction requests
  - balance table (to see who owes who money + how much)  
  
- ### Quality of Life + Additional Features
+### Quality of Life + Additional Features
   - option to split a transaction evenly / split it manually (for uneven splitting)
   - receipt scanner
     - uses OCR to streamline the process of splitting a transaction manually
@@ -78,7 +78,7 @@ This is the first of two semesters I'll be working on this project, and I'm real
  
  <p>&nbsp;</p>
  
- ## Thanks for checking us out!
+## Thanks for checking us out!
  
 
 
