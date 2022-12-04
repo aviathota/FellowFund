@@ -26,7 +26,7 @@ FellowFund solves this issue. In FellowFund, users are be able to create groups 
  - transaction history
    - potentially stored on the Blockchain as a hash to be immutable / secure
  - voting system to verify transaction requests
- - balance table (to see who owes who money + how much)
+ - balance table (to see who owes who money + how much)  
  
  ### Quality of Life + Additional Features
   - option to split a transaction evenly / split it manually (for uneven splitting)
@@ -74,7 +74,7 @@ This is the first of two semesters I'll be working on this project, and I'm real
 
 ### Miscellaneous
  - create a FellowFund website
- - potentially present idea at other startup communities or startup accelerators
+ - potentially present idea at other startup communities or startup accelerators  
  
  <p>&nbsp;</p>
  
