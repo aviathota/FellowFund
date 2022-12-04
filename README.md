@@ -3,7 +3,7 @@
 
 ### Splitting expenses, made easy!  
 
-Project made by Avi Athota as part of the CREATE-X program at Georgia Tech in Fall '22 and Spring '23.  
+Project by Avi Athota as part of the CREATE-X program at Georgia Tech in Fall '22 and Spring '23.  
 Mentored by Professor Caleb Southern.
 
 <p>&nbsp;</p>
